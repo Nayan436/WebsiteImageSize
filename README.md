@@ -3,7 +3,7 @@ A python script to find all the images in bulk website with >100kb [ changeable 
 
 use url.txt file to list all the url. write url in single line
 
-run python script using python script.py urls.txt
+run python script using python image_analyzer.py urls.txt
 
 prequisite: pip install requests beautifulsoup4 Pillow
 
